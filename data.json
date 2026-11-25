@@ -1,0 +1,295 @@
+{
+ "Project": [
+  {
+   "Setting": "Project Name",
+   "Value": "Emmanuel Dining Room East Renovation"
+  },
+  {
+   "Setting": "Address",
+   "Value": "600 E. 4th Street, Wilmington, DE 19801"
+  },
+  {
+   "Setting": "Client",
+   "Value": "Wilmington Housing Authority"
+  },
+  {
+   "Setting": "Contract No.",
+   "Value": "B26002"
+  },
+  {
+   "Setting": "Notice to Proceed",
+   "Value": "8/24/2026"
+  },
+  {
+   "Setting": "Target Date",
+   "Value": "1/29/2027"
+  },
+  {
+   "Setting": "Target Label",
+   "Value": "Project completion"
+  },
+  {
+   "Setting": "Overall Status",
+   "Value": "Schedule Revised"
+  },
+  {
+   "Setting": "Status Note",
+   "Value": "Framing and plumbing rough-in are complete. HVAC starts December 7 and siding material arrives December 14. Water service is waiting on approval of the submitted application, and the Mayor's Office has not committed to a kitchen equipment date, so completion dates have been revised. Window and door openings are framed out, and glass delivery is confirmed for install on December 1."
+  },
+  {
+   "Setting": "Overall Progress",
+   "Value": ""
+  },
+  {
+   "Setting": "Last Updated",
+   "Value": "11/24/2026"
+  }
+ ],
+ "Schedule": [
+  {
+   "Phase": "Roofing",
+   "Start": "8/24/2026",
+   "Finish": "8/30/2026",
+   "Status": "Complete",
+   "Notes": ""
+  },
+  {
+   "Phase": "Framing",
+   "Start": "8/31/2026",
+   "Finish": "9/18/2026",
+   "Status": "Complete",
+   "Notes": "Completed on schedule"
+  },
+  {
+   "Phase": "Plumbing rough-in",
+   "Start": "9/21/2026",
+   "Finish": "10/9/2026",
+   "Status": "Complete",
+   "Notes": ""
+  },
+  {
+   "Phase": "Water service connection",
+   "Start": "",
+   "Finish": "",
+   "Status": "Waiting on approval",
+   "Notes": "Plumber ready; application submitted"
+  },
+  {
+   "Phase": "Windows & doors",
+   "Start": "11/23/2026",
+   "Finish": "12/1/2026",
+   "Status": "Active",
+   "Notes": "Openings framed out Nov 23; glass delivery confirmed, install Dec 1"
+  },
+  {
+   "Phase": "HVAC",
+   "Start": "12/7/2026",
+   "Finish": "12/11/2026",
+   "Status": "Scheduled",
+   "Notes": ""
+  },
+  {
+   "Phase": "Siding",
+   "Start": "12/14/2026",
+   "Finish": "12/18/2026",
+   "Status": "Scheduled",
+   "Notes": "Material delivery Dec 14"
+  },
+  {
+   "Phase": "Electrical rough-in",
+   "Start": "",
+   "Finish": "",
+   "Status": "In progress (60%)",
+   "Notes": "About 60% complete"
+  },
+  {
+   "Phase": "Sprinkler & fire alarm",
+   "Start": "",
+   "Finish": "",
+   "Status": "On hold",
+   "Notes": "Waiting on water service approval"
+  },
+  {
+   "Phase": "Close-in & finishes",
+   "Start": "12/14/2026",
+   "Finish": "1/15/2027",
+   "Status": "Scheduled",
+   "Notes": "After HVAC rough-in"
+  },
+  {
+   "Phase": "Inspections & punch list",
+   "Start": "1/18/2027",
+   "Finish": "1/29/2027",
+   "Status": "Scheduled",
+   "Notes": ""
+  }
+ ],
+ "Milestones": [
+  {
+   "Milestone": "Contract signed",
+   "Date": "6/3/2026",
+   "Status": "Complete"
+  },
+  {
+   "Milestone": "Change of occupancy accepted (Fire Marshal)",
+   "Date": "8/15/2026",
+   "Status": "Complete"
+  },
+  {
+   "Milestone": "Notice to proceed",
+   "Date": "8/24/2026",
+   "Status": "Complete"
+  },
+  {
+   "Milestone": "Roofing complete",
+   "Date": "8/30/2026",
+   "Status": "Complete"
+  },
+  {
+   "Milestone": "Framing complete",
+   "Date": "9/18/2026",
+   "Status": "Complete"
+  },
+  {
+   "Milestone": "Plumbing rough-in complete",
+   "Date": "",
+   "Status": "Complete"
+  },
+  {
+   "Milestone": "Water service approval",
+   "Date": "",
+   "Status": "Waiting on approval"
+  },
+  {
+   "Milestone": "Window and door openings framed out",
+   "Date": "11/23/2026",
+   "Status": "Complete"
+  },
+  {
+   "Milestone": "Window and door glass installed",
+   "Date": "12/1/2026",
+   "Status": "Scheduled"
+  },
+  {
+   "Milestone": "HVAC complete",
+   "Date": "12/11/2026",
+   "Status": "Scheduled"
+  },
+  {
+   "Milestone": "Siding complete",
+   "Date": "12/18/2026",
+   "Status": "Scheduled"
+  },
+  {
+   "Milestone": "Project completion",
+   "Date": "1/29/2027",
+   "Status": "Scheduled"
+  }
+ ],
+ "Owner Actions": [
+  {
+   "Item": "Water service application approval",
+   "Needed From": "Louis Comacho",
+   "Due": "",
+   "Status": "Waiting on approval",
+   "Notes": "Application submitted. The plumber is ready to install the water service. This approval also holds up the sprinkler system."
+  },
+  {
+   "Item": "Kitchen equipment date and details",
+   "Needed From": "Mayor's Office",
+   "Due": "",
+   "Status": "Open",
+   "Notes": "No date committed yet. Needed: equipment list, cut sheets, utility requirements, vendor contacts, delivery and install dates."
+  }
+ ],
+ "Updates": [
+  {
+   "Date": "11/24/2026",
+   "Update": "Glass delivery for the storefront windows and doors is confirmed. Wilmington Windows and Doors will install the glass on December 1."
+  },
+  {
+   "Date": "11/23/2026",
+   "Update": "Framing was completed on schedule and plumbing rough-in is complete. HVAC is projected to start December 7 and take about a week. Siding material arrives December 14 and installation takes about a week. The plumber is ready for the water service and is waiting on approval of the submitted application. The Mayor's Office has not committed to a kitchen equipment date. Today Wilmington Windows and Doors framed out all window and door openings, so the delayed glass can slide right in when it arrives. This keeps the project moving forward."
+  },
+  {
+   "Date": "9/3/2026",
+   "Update": "Roofing is substantially complete and framing is active (Aug 31 to Sep 18). MEP rough-ins follow. Kitchen equipment information from the owner is needed before rough-in walls are closed."
+  },
+  {
+   "Date": "8/24/2026",
+   "Update": "Notice to proceed issued. Roofing work started."
+  },
+  {
+   "Date": "8/15/2026",
+   "Update": "Fire Marshal accepted the change of occupancy for the dining room."
+  },
+  {
+   "Date": "6/3/2026",
+   "Update": "Contract B26002 signed with the Wilmington Housing Authority."
+  }
+ ],
+ "Invoices": [
+  {
+   "Invoice": "58",
+   "Description": "Warehouse lead abatement",
+   "Sent": "4/7/2026",
+   "Status": "Paid",
+   "Date Paid": "6/19/2026",
+   "Amount": ""
+  },
+  {
+   "Invoice": "67",
+   "Description": "Warehouse demolition",
+   "Sent": "6/16/2026",
+   "Status": "Paid",
+   "Date Paid": "7/1/2026",
+   "Amount": ""
+  },
+  {
+   "Invoice": "P1",
+   "Description": "General conditions",
+   "Sent": "8/18/2026",
+   "Status": "Paid",
+   "Date Paid": "",
+   "Amount": ""
+  },
+  {
+   "Invoice": "P2",
+   "Description": "Framing and 90% roofing",
+   "Sent": "9/11/2026",
+   "Status": "Paid",
+   "Date Paid": "10/23/2026",
+   "Amount": ""
+  },
+  {
+   "Invoice": "P3",
+   "Description": "Plumbing 100% rough-in and electrical 60% rough-in",
+   "Sent": "9/12/2026",
+   "Status": "Paid",
+   "Date Paid": "11/17/2026",
+   "Amount": ""
+  }
+ ],
+ "Team": [
+  {
+   "Name": "Jerry Jackson",
+   "Role": "Owner / Principal, JF Build"
+  },
+  {
+   "Name": "Nafis Jackson, PMP",
+   "Role": "Project Manager"
+  },
+  {
+   "Name": "Bryce Jackson",
+   "Role": "Business Analyst"
+  },
+  {
+   "Name": "Architectural Alliance",
+   "Role": "Architect"
+  },
+  {
+   "Name": "Wilmington Windows and Doors",
+   "Role": "Windows & doors"
+  }
+ ]
+}
