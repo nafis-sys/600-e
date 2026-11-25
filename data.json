@@ -315,6 +315,10 @@
    "Role": "Business Analyst"
   },
   {
+   "Name": "Jarrea Garner",
+   "Role": "Site Supervisor"
+  },
+  {
    "Name": "Architectural Alliance",
    "Role": "Architect"
   },
@@ -329,6 +333,10 @@
   {
    "Name": "Generation Electrical Services",
    "Role": "Electrical"
+  },
+  {
+   "Name": "Brandywine Heating and Cooling",
+   "Role": "HVAC"
   },
   {
    "Name": "ProWorks",
