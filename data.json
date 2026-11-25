@@ -42,7 +42,7 @@
   },
   {
    "Setting": "Last Updated",
-   "Value": "11/24/2026"
+   "Value": "11/25/2026"
   }
  ],
  "Schedule": [
@@ -230,6 +230,10 @@
   }
  ],
  "Updates": [
+  {
+   "Date": "11/25/2026",
+   "Update": "The new storefront double doors are installed, with panic hardware. See Site photos."
+  },
   {
    "Date": "11/24/2026",
    "Update": "Glass delivery for the storefront windows and doors is confirmed. Wilmington Windows and Doors will install the glass on December 1."
