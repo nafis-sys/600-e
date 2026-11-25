@@ -321,6 +321,22 @@
   {
    "Name": "Wilmington Windows and Doors",
    "Role": "Windows & doors"
+  },
+  {
+   "Name": "Calhum Mechanical",
+   "Role": "Plumbing"
+  },
+  {
+   "Name": "Generation Electrical Services",
+   "Role": "Electrical"
+  },
+  {
+   "Name": "ProWorks",
+   "Role": "Water service"
+  },
+  {
+   "Name": "Allegiant Fire Protection",
+   "Role": "Fire protection"
   }
  ]
 }
